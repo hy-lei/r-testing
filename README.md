@@ -15,7 +15,7 @@ install.packages('testthat')
 ```R
 library(testthat)
 ```
-to check the installation is successful.
+to check if the installation is successful.
 
 ### Running the demo
 
